@@ -13,7 +13,7 @@
 - 👯 Looking to collaborate on **YouTube content**
 - 🤝 Open to job opportunities — feel free to reach out!
 - 💬 Ask me anything about **Flutter** & **Dart**
-- 📫 Reach me here: [myurls.co/ajmal](https://myurls.co/ajmal)
+- 📫 Reach me here: [myurls.co/ajmal](https://brahm03.netlify.app)
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I speak **English fluently** but not Arabic 😅
 
