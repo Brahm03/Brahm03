@@ -47,8 +47,8 @@ I'm a passionate mobile developer focused on crafting beautiful, responsive, and
 > **Note:** Don't forget to replace `Brahm03` with your actual GitHub username below!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Brahm03&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brahm03&theme=radical&hide_border=true&background=0D1117" width="48%" />
 </p>
 
 ---
