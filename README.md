@@ -44,7 +44,7 @@ I'm a passionate mobile developer focused on crafting beautiful, responsive, and
 
 ### 📈 GitHub Stats
 
-> **Note:** Don't forget to replace `YOUR_USERNAME` with your actual GitHub username below!
+> **Note:** Don't forget to replace `Brahm03` with your actual GitHub username below!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
