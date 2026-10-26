@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=000000&height=180&section=header&text=Ajmal%20Abraham&fontSize=42&fontColor=ffffff&fontAlignY=40&subtext=Mobile%20%26%20Backend%20Engineer%20%7C%20Flutter%20%E2%80%A2%20Swift%20%E2%80%A2%20Python%20%E2%80%A2%20FastAPI&subtextFontSize=15&subtextAlignY=68" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=000000&height=180&section=header&text=Ajmal%20Abraham&fontSize=42&fontColor=ffffff&fontAlignY=40&subtext=Mobile%20%26%20Backend%20Engineer%20%7C%20Flutter%20•%20Swift%20•%20Python%20•%20FastAPI&subtextFontSize=15&subtextAlignY=68" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
@@ -19,13 +19,12 @@
 
 <br/>
 
+<div align="center">
+
 ```swift
-//  developer.swift
-struct Profile {
-    let name       = "Ajmal Abraham"
-    let role       = "Freelance Mobile & Backend Engineer"
-    let stack      = ["Flutter", "Dart", "Swift", "Python", "FastAPI"]
-    let location   = "Remote / Global"
-    let status     = "Open for Full-Time Roles & Freelance Projects"
-    let funFact    = "I speak English fluently, but not Arabic! 😅"
-}
+let developer = Developer(
+    role: "Mobile & Backend Engineer",
+    stack: [.flutter, .swift, .python, .fastAPI],
+    status: .openForOpportunities,
+    quirk: "Fluent in English, zero Arabic! 😅"
+)
